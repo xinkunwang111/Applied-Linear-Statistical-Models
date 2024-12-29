@@ -1,6 +1,5 @@
-# Applied-Linear-Statistical-Models
-# Applied Linear Statistical Models: Uber Fare Prediction  
-**DTS206TC Course Project | XJTLU Entrepreneur College (Taicang)**  
+# Applied Linear Statistical Models
+
 
 This project explores the application of multiple linear regression (MLR) using R to predict Uber fare prices, focusing on advanced statistical modeling techniques, exploratory data analysis (EDA), and regression diagnostics. The work demonstrates expertise in R programming for data analysis, feature engineering, and model optimization, aiming to derive actionable insights for business applications.  
 
