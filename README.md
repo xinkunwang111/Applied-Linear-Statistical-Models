@@ -1,7 +1,19 @@
 # Applied Linear Statistical Models
 
+This project explores the application of multiple linear regression (MLR) using R to predict Uber fare prices, focusing on advanced statistical modeling techniques, exploratory data analysis (EDA), and regression diagnostics. The work demonstrates expertise in R programming for data analysis, feature engineering, and model optimization, aiming to derive actionable insights for business applications.
 
-This project explores the application of multiple linear regression (MLR) using R to predict Uber fare prices, focusing on advanced statistical modeling techniques, exploratory data analysis (EDA), and regression diagnostics. The work demonstrates expertise in R programming for data analysis, feature engineering, and model optimization, aiming to derive actionable insights for business applications.  
+---
+
+## 📚 完整文档
+
+本项目提供了全面的技术文档，包括：
+
+- **[文档索引](DOCUMENTATION_INDEX.md)** - 快速导航到所有文档
+- **[API 文档](API_DOCUMENTATION.md)** - 完整的 API 和函数参考
+- **[函数库](FUNCTION_LIBRARY.md)** - 可重用的函数库和代码示例
+- **[用户指南](USER_GUIDE.md)** - 详细的使用教程和最佳实践
+
+**快速开始**: 如果您是新用户，请先阅读 [用户指南的快速开始部分](USER_GUIDE.md#快速开始)。  
 
 ---
 
